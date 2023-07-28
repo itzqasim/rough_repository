@@ -1,1 +1,2 @@
 hello this is my new file for check git status
+change file for first time
